@@ -1,9 +1,9 @@
 
 
 ## How To Run
-1. Make sure you have Xammp installed and MySQL adn Apache services are started'
+1. Make sure you have Xammp installed and MySQL and Apache services are started'
 ##
-2.Go to the project directory open the terminal and run the following command:
+2. Go to the project directory open the terminal and run the following command:
     php artisan migrate (This will create the database and tables)
 ##
 3. If you want to seed the database run this after running the above command
